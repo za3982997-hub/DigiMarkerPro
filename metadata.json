@@ -1,0 +1,7 @@
+{
+  "name": "DigiMarket Pro",
+  "description": "A premium e-commerce platform for digital courses, assets, and software, featuring an AI-powered learning consultant to help users find the perfect digital products.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
